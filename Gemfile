@@ -46,7 +46,11 @@ group :development do
 end
 
 gem 'action_args'
+
 gem 'carrierwave'
+
 gem 'pry-rails'
+
 gem 'httpclient'
+
 gem 'dotenv-rails', groups: [:development, :test]
